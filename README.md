@@ -1,17 +1,17 @@
 <body>
 <h1 align="center">~ 𝑩𝒆𝒎 𝑽𝒊𝒏𝒅𝒐 𝒂𝒐 𝑴𝒆𝒖 𝑷𝒆𝒓𝒇𝒊𝒍 ~</h1>
-<br><br><br>
+  <center>
+<div align="center">
+
+<p>自分でいよう</p>
+<br>
+</div>
 <div>
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=SourCandy21&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourCandy21&layout=compact&langs_count=16&theme=calm"/>
 </div>
-  <center>
-<br>
-<div align="center">
-<br><br>
-<p>自分でいよう</p>
-<br>
-</div>
+
+<br><br><br><br>
   
 <div>
 <h2 align="center">  ~ 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 ~  </h2>
@@ -57,10 +57,18 @@
 </p>
 <br><br>
 </div>
-<br><br><br><br>
+<br><br>
 <h2 align="center"> ~ 𝑪𝒐𝒏𝒕𝒂𝒕𝒐𝒔 ~ </h2>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/PoolPartyAkali" target="_blank"><img src="https://img.shields.io/badge/PwoolPwatyAkwali%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://img.shields.io/badge/CowzyThwighs%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center">Formas de me contatar <br>
+<p align="center">
+  <a href="mailto: abcdmartins40@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+   <a href="mailto: abcdmartins40@gmail.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
 </div>
+
+<br><br><br>

@@ -7,12 +7,11 @@
 <br>
 </div>
 <div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=SourCandy21&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" />
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SourCandy21&layout=compact&langs_count=16&theme=calm"/>
 </div>
 
-<br><br><br><br>
-  
+  <br><br><br>
 <div>
 <h2 align="center">  ~ 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 ~  </h2>
   <br><br><br>

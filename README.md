@@ -16,7 +16,7 @@
 <h2 align="center">  ~ 𝑺𝒐𝒃𝒓𝒆 𝑴𝒊𝒎 ~  </h2>
   <br><br><br>
   <div align="center">
-<img height="280px" src="https://github.com/user-attachments/assets/eb141eae-c2ad-4c41-8243-8e0da5a4d4f2" border-radius="20px" align="right">
+<img height="280px" border-radius="20px" src="https://github.com/user-attachments/assets/eb141eae-c2ad-4c41-8243-8e0da5a4d4f2"  align="right">
  
  </div>
   

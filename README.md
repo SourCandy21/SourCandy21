@@ -47,7 +47,7 @@
   <br>
 <p align="right">
 <br><br><br>
- Estudante de Ensino Médio com curso técnico em Desenvolvimento de Sistemas, com conhecimento em HTML, CSS, JavaScript e Git. Aprendendo Pyton, Banco de Dados e Node.js
+ Estudante de Ensino Médio com curso técnico em Desenvolvimento de Sistemas, com conhecimento em HTML, CSS, JavaScript e Git. Aprendendo Python, Banco de Dados e Node.js
  <br><br><br>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
